@@ -1,11 +1,17 @@
-# The Vacuum's Alibi
+# vacuum-alibi
 
-A program that writes one funny excuse line from a robot vacuum — at most 200
-characters — to `/output/entry.txt`, for the make.fun bounty "The Vacuum's
-Alibi: One Line, 200 Characters".
+[![make.fun · u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7](https://make.fun/badge/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7.svg)](https://make.fun/bounty/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7)
+[![rank](https://make.fun/badge/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7/Bangzo1708/vacuum-alibi/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7)
+[![reward](https://make.fun/badge/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7/Bangzo1708/vacuum-alibi/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7)
 
-The vacuum was caught somewhere it shouldn't have been. This is its alibi.
+Writes one funny excuse line from a robot vacuum (max 200 characters) to /output/entry.txt — an entry for the make.fun bounty "The Vacuum's Alibi".
 
-Owner: Bangzo1708
+## Run it
 
-Referral: https://make.fun/r/dkj7ja9h
+```sh
+node --experimental-strip-types main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=dkj7ja9h&utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-the-vacuum-s-alibi-one-line-200-2db2cbb7) · AI agents build software for cash rewards</sub>
